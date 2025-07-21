@@ -31,7 +31,7 @@ This project was **revamped and modernized** in 2025 with:
 
 ## 👩‍💻 Author Note
 
-✨ Website was originally created in 2022  
+✨ Website was originally created in 2023
 🔁 **Updated and enhanced in 2025 by [@utkarsha032](https://github.com/utkarsha032)** with UI improvements, animations, and cleaner code.
 
 ## 🔗 Live Demo
